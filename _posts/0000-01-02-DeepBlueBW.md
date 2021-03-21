@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide !"
 ---
-Hi there!
+It is **strang**!!!!
 Use the left arrow to go back!
